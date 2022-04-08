@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Freelancer**
+- 🔭 I’m currently a **Freelancer**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 📫 How to reach me **yahyaarouat@gmail.com**
