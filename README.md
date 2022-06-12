@@ -1,32 +1,40 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/vllmsN0.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yahia</h1>
-<h3 align="center">I'm a Graphic designer & Developer From Morocco.</h3>
+
+<h2 align="center">Hi 👋 <img swidth="30px"> , I'm Yahia I'm a Graphic designer & Developer.</h2>
+
+
+## Discord Status
+
+<a href="https://discord.com/users/315094908279193602">
+<img height="80px" src="https://i.postimg.cc/QtGnTnxQ/315094908279193602-1.png" />
+</a>
+
+
 
 
 ## 🙋‍♂️ About Me
-
 - 🔭 I’m currently a **Freelancer**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 📫 How to reach me **yahyaarouat@gmail.com**
- 
 - ⚡ Fun fact **I play games and go to the GYM .**
+- 📫 How to reach me?      [Click Me!](https://linktr.ee/shankiiyahia)
+
+
+
+
+
 
 ## 🚀 Languages and Tools:
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,)](https://github.com/Shxnkii)
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  
-<img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/><img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/><img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/> 
-    
+[![My Skills](https://skillicons.dev/icons?i=pr,ae,au,ps,ai,)](https://github.com/Shxnkii)
 
 
-## Connect with me:
-<p align="left">
+
+## 🔗 Connect with me:
+
 
 
 
@@ -40,4 +48,6 @@
 
 
 
+
 <img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="sneke" style="max-width: 100%;">
+
